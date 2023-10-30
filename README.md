@@ -14,7 +14,8 @@ To use this webpage, click the links on the navigation bar to move through the p
 
 To view the website, click this link: http://127.0.0.1:5501/02-Challenge/Develop/index.html
 
-![alt text](assets/images/screenshot.png)
+<img width="1263" alt="screenshot" src="https://github.com/gjudilla/week-one-accessibility-challenge/assets/148306966/69219445-08cf-4f99-be62-8025de1ac5e8">
+
 
 
 ## Credits
