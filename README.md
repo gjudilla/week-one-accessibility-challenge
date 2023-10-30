@@ -12,7 +12,8 @@ N/A
 
 To use this webpage, click the links on the navigation bar to move through the page and reach the designated sections of the page. Browse the content on the webpage to explore the agency's marketing strategies. To view the semantic elements and changes made within the codebase, right click the webpage and click "Inspect" to open ChromeDevTools. Alternatively, use Command+Option+I on Mac or Command+Shift+I to open a panel with the codebase.
 
-To view the website, click this link: ***
+To view the website, click this link: http://127.0.0.1:5501/02-Challenge/Develop/index.html
+
 ![alt text](assets/images/screenshot.png)
 
 
