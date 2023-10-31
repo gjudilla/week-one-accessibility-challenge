@@ -2,7 +2,7 @@
 
 ## Description
 
-I was given the source code and design elements from a marketing agency's webpage which was somewhat lacking in accessibility standards. The source code contained several non-semantic elements and redundant structuring, which was remedied by editing tags and selectors within the HTML and CSS source code. The webpage did not contain all working links and an identifiable title, which was edited within the HTML code as well. The codebase is now more accessible and the webpage is optimized for search engines.
+I was given the source code and design elements from a marketing agency's webpage (provided in UCB Bootcamp Challenge Repository) which was somewhat lacking in accessibility standards. The source code contained several non-semantic elements and redundant structuring, which was remedied by editing tags and selectors within the HTML and CSS source code. The webpage did not contain all working links and an identifiable title, which was edited within the HTML code as well. The codebase is now more accessible and the webpage is optimized for search engines.
 
 ## Installation
 
