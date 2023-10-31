@@ -12,7 +12,7 @@ N/A
 
 To use this webpage, click the links on the navigation bar to move through the page and reach the designated sections of the page. Browse the content on the webpage to explore the agency's marketing strategies. To view the semantic elements and changes made within the codebase, right click the webpage and click "Inspect" to open ChromeDevTools. Alternatively, use Command+Option+I on Mac or Command+Shift+I to open a panel with the codebase.
 
-To view the website, click this link: http://127.0.0.1:5501/02-Challenge/Develop/index.html
+To view the website, click this link: [http://127.0.0.1:5501/02-Challenge/Develop/index.html](https://gjudilla.github.io/week-one-accessibility-challenge/#search-engine-optimization)
 
 <img width="1263" alt="screenshot" src="https://github.com/gjudilla/week-one-accessibility-challenge/assets/148306966/69219445-08cf-4f99-be62-8025de1ac5e8">
 
