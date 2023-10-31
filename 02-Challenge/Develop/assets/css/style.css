@@ -71,13 +71,15 @@ p {
     margin-left: 25px;
 }
 
-.content {
+/* Changed .content class selector to main element selector */
+main {
     width: 75%;
     display: inline-block;
     margin-left: 20px;
 }
 
-.benefits {
+/* Changed .benefits class selector to aside element selector */
+aside {
     margin-right: 20px;
     padding: 20px;
     clear: both;
